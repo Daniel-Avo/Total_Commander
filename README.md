@@ -18,7 +18,7 @@ Project is created with:
 * Easy files menagment
 * Copying, moving, zipping files
 * Crating and deleting folders
-* With two screens you can easily 
+* With two screens you can easily look through your files
 
 ## Idea
 
