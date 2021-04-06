@@ -1,6 +1,6 @@
 # Total Commander by Daniel Avoyan
 
-My name is Daniel and this is my first big application.
+My name is Daniel and this is my first application.
 
 ## General info
 
