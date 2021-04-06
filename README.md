@@ -4,7 +4,7 @@ My name is Daniel and this is my first application.
 
 ## General info
 
-Simple file management applicationsimple file management application.
+Simple file management application.
 
 ## Technologies
 
